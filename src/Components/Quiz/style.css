@@ -1,0 +1,15 @@
+.button_block{
+  margin-top: 15px;
+}
+.buttonIsVisible{
+  display: none;
+}
+.buttonIsBlock{
+  display: block;
+}
+.quizBlock{
+  height:50px;
+  background:#6455cc;
+  width:300px;
+  cursor: pointer;
+}
